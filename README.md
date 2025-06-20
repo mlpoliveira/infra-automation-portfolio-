@@ -10,3 +10,13 @@ Este repositório contém projetos práticos e anotações dos meus estudos volt
 - Inglês técnico aplicado
 
 📅 Projeto em andamento — atualizado semanalmente.
+
+## ✅ Progresso
+
+| Tópico                         | Status     |
+|-------------------------------|------------|
+| Fundamentos de redes           | ⬜ A fazer |
+| Monitoramento com Datadog      | ⬜ A fazer |
+| Scripts em Bash                | ⬜ A fazer |
+| Python para automação          | ⬜ A fazer |
+| Glossário de inglês técnico    | ⬜ A fazer |
